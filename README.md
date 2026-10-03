@@ -1,68 +1,46 @@
 ![Yousef Rajabi — Junior Full-Stack Developer](assets/profile-banner.svg)
 
-# Hi, I'm Yousef 👋
+# Yousef Rajabi
 
-**Junior Full-Stack Developer / Full-Stack Student**
+**Junior Full-Stack Developer · Full-Stack Student**
 
-I'm learning to build clear, useful web applications with JavaScript and React. My work includes React interfaces on a team learning platform, small API projects, and practical portfolio apps.
+JavaScript · React · Node.js · Express · Git · GitHub
 
-I'm interested in **internships, junior developer roles, volunteering, and hackathons**.
+## About Me
 
-## About me
+I am learning full-stack development by building practical web applications: responsive interfaces, API integrations, forms, and small backend services. My current focus is JavaScript and React, while I build confidence with Node.js, Express, and SQL.
 
-- Full-Stack development student, building and learning through practical projects.
-- Contributed React interfaces and frontend integration to the team project **Masari**.
-- Practicing readable components, responsive layouts, form validation, and API error handling.
-- Learning to test behavior and document both what works and what still needs improvement.
+**Open to Junior Frontend / Junior Full-Stack roles and internships, especially in Qatar and the Gulf. Willing to relocate for a suitable opportunity.**
 
-## Technologies in my work
+## Tech Stack
 
-**HTML · CSS · JavaScript · React · Fetch API · async/await · Git · GitHub**
+- **Frontend:** HTML, CSS, JavaScript, React, Fetch API, responsive design
+- **Backend practice:** Node.js, Express, REST APIs, SQLite
+- **Tools:** Git, GitHub, Vite, Playwright, GitHub Actions
 
-My recent portfolio apps also use **Vite**, **localStorage**, and **Playwright** browser tests. I am beginning to practice **Express and SQLite** through a small local demo. I'm developing confidence with these tools through guided practice.
+## Featured Projects
 
-## Featured projects
-
-| Project | What it demonstrates | Stack |
+| Project | What to explore | Live demo |
 | --- | --- | --- |
-| [Masari — team project](https://github.com/MDBASHERx/Masari) | Arabic learning platform. My documented contributions include React chat, career exploration, and progress interfaces. | React, JavaScript, CSS, API integration |
-| [GatherBoard](https://github.com/yousefrajabi06-debug/gatherboard) | Local fictional events and reservations; learning server validation, parameterized SQL, and capacity transactions. | React, Express, SQLite |
-| [PennyScope](https://github.com/yousefrajabi06-debug/pennyscope) | Monthly cash-flow dashboard, integer-cent totals, category visualization, and CSV export. | React, JavaScript, localStorage |
-| [Daymark Calendar](https://github.com/yousefrajabi06-debug/daymark-calendar) | Public-holiday calendar with cancellable requests, regional labels, and ICS export. | React, Fetch API, Nager.Date |
-| [ApplyTrack](https://github.com/yousefrajabi06-debug/applytrack) | Student job-search pipeline, validated forms, stage changes, and follow-up dates. | React, JavaScript, localStorage |
-| [Recall Studio](https://github.com/yousefrajabi06-debug/recall-studio) | Flashcard library and a review session with missed-card repetition. | Vanilla JavaScript, DOM APIs, CSS |
+| [PennyScope](https://github.com/yousefrajabi06-debug/pennyscope) | React cash-flow dashboard, integer-cent calculations, category charts, CSV export | [Open app](https://yousef-pennyscope.netlify.app/) |
+| [GatherBoard](https://github.com/yousefrajabi06-debug/gatherboard) | React + Express + SQLite; server validation, reservations, capacity transactions | [Browser preview](https://yousef-gatherboard.netlify.app/) |
+| [Daymark Calendar](https://github.com/yousefrajabi06-debug/daymark-calendar) | Public holiday API, cancellable requests, loading/error states, ICS export | [Open app](https://yousef-daymark.netlify.app/) |
+| [ApplyTrack](https://github.com/yousefrajabi06-debug/applytrack) | Job-search pipeline, validated forms, search, filters, local persistence | [Open app](https://yousef-applytrack.netlify.app/) |
+| [Recall Studio](https://github.com/yousefrajabi06-debug/recall-studio) | Vanilla JavaScript flashcards, DOM events, review-session state | [Open app](https://yousef-recall-studio.netlify.app/) |
+| [CoachFlow](https://github.com/yousefrajabi06-debug/coachflow) | React client dashboard, reusable components, detail views, computed summaries | [Open app](https://yousef-coachflow.netlify.app/) |
 
-These solo portfolio apps are **AI-assisted learning projects**. Their READMEs explain implementation, tests, limitations, and exercises for rebuilding important parts independently. They are not client work or claims of professional experience. GatherBoard is a local learning demo with fictional data; it is not a production booking service.
+GatherBoard's hosted preview stores fictional data in the browser; its Express/SQLite version runs locally. The other demos are frontend applications. These are **AI-assisted learning projects**, with tests, limitations, and rebuild exercises documented in each repository. They are not client work or claims of professional experience.
 
-### More learning projects
+## Team Contribution
 
-- [TaskFlow](https://github.com/yousefrajabi06-debug/taskflow) — task CRUD, search, filters, and persistence.
-- [Series Explorer](https://github.com/yousefrajabi06-debug/series-explorer) — TVmaze search, details, and watchlist.
-- [CoachFlow](https://github.com/yousefrajabi06-debug/coachflow) — fictional coaching-client dashboard.
-- [Weather Now](https://github.com/yousefrajabi06-debug/amazon-clone) — city weather lookup with Open-Meteo; the repository keeps its historical name.
+[Masari](https://github.com/MDBASHERx/Masari) — a team learning-platform project. My frontend contributions include chat, career, and progress interfaces. The wider application's backend is team work.
 
-## What I'm learning
+## What I'm Currently Learning
 
-- JavaScript fundamentals, array methods, and asynchronous programming
-- React state, effects, forms, and reusable components
-- API integration, loading states, and error handling
-- Responsive, accessible interfaces and browser testing
-- Git collaboration and writing clear project documentation
+- JavaScript fundamentals, async/await, and React state/effects
+- Accessible forms, reliable API error handling, and meaningful browser tests
+- Express request validation, SQL relationships, and the basics needed before adding authentication
 
-## Contact
+## Links
 
-- [GitHub: @yousefrajabi06-debug](https://github.com/yousefrajabi06-debug)
-- LinkedIn: to be added
-- Email: to be added
-
----
-
-Learning in public, one useful improvement at a time.
-
-## Try the live projects
-
-- [pennyscope](https://yousef-pennyscope.netlify.app/)
-- [daymark-calendar](https://yousef-daymark.netlify.app/)
-- [applytrack](https://yousef-applytrack.netlify.app/)
-- [recall-studio](https://yousef-recall-studio.netlify.app/)
-- [gatherboard](https://yousef-gatherboard.netlify.app/) — browser-only preview with fictional, local data; the full-stack version remains a local learning app.
+[GitHub](https://github.com/yousefrajabi06-debug) · Explore the live portfolio projects above.

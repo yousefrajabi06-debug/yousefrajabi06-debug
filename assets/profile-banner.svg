@@ -1,10 +1,12 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="360" viewBox="0 0 1200 360" role="img" aria-labelledby="title desc">
-<title id="title">Yousef Rajabi — Junior Full-Stack Developer</title><desc id="desc">Minimal dark green banner with a YR monogram and JavaScript, React and web development text.</desc>
-<defs><pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse"><path d="M40 0H0V40" fill="none" stroke="#c8ef93" stroke-opacity=".055"/></pattern></defs>
-<rect width="1200" height="360" rx="24" fill="#101e1b"/><rect width="1200" height="360" rx="24" fill="url(#grid)"/>
-<rect x="60" y="53" width="43" height="4" rx="2" fill="#c8ef93"/><text x="118" y="61" font-family="Arial,sans-serif" font-size="13" letter-spacing="3" fill="#b8c5be">LEARNING. BUILDING. IMPROVING.</text>
-<text x="60" y="151" font-family="Arial,sans-serif" font-size="58" font-weight="700" fill="#f3f6ef">Yousef Rajabi</text>
-<text x="62" y="199" font-family="Arial,sans-serif" font-size="24" fill="#c8ef93">Junior Full-Stack Developer / Student</text>
-<text x="62" y="288" font-family="Arial,sans-serif" font-size="18" fill="#b8c5be">JavaScript  ·  React  ·  Web Development</text>
-<rect x="948" y="86" width="168" height="168" rx="38" fill="#c8ef93"/><text x="1032" y="198" text-anchor="middle" font-family="Arial,sans-serif" font-size="75" font-weight="700" letter-spacing="-5" fill="#101e1b">YR</text>
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="320" viewBox="0 0 1200 320" role="img" aria-labelledby="title desc">
+<title id="title">Yousef Rajabi — Junior Full-Stack Developer</title>
+<desc id="desc">JavaScript, React, Node.js. A minimal dark green developer profile banner.</desc>
+<rect width="1200" height="320" rx="24" fill="#102c2b"/>
+<path d="M880 0v320M960 0v320M1040 0v320M1120 0v320M840 80h360M840 160h360M840 240h360" stroke="#26413d" stroke-width="1"/>
+<rect x="56" y="58" width="6" height="204" rx="3" fill="#bcdf81"/>
+<text x="88" y="116" fill="#f6f8f1" font-family="Arial, sans-serif" font-size="52" font-weight="700">Yousef Rajabi</text>
+<text x="90" y="171" fill="#dce7df" font-family="Arial, sans-serif" font-size="28">Junior Full-Stack Developer</text>
+<text x="90" y="225" fill="#bcdf81" font-family="Arial, sans-serif" font-size="22">JavaScript • React • Node.js</text>
+<rect x="930" y="96" width="128" height="128" rx="32" fill="#bcdf81"/>
+<text x="994" y="177" text-anchor="middle" fill="#102c2b" font-family="Arial, sans-serif" font-size="48" font-weight="700">YR</text>
 </svg>
