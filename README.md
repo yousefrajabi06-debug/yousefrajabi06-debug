@@ -19,19 +19,27 @@ I'm interested in **internships, junior developer roles, volunteering, and hacka
 
 **HTML · CSS · JavaScript · React · Fetch API · async/await · Git · GitHub**
 
-My recent portfolio apps also use **Vite**, **localStorage**, and **Playwright** browser tests. I'm developing confidence with these tools through guided practice.
+My recent portfolio apps also use **Vite**, **localStorage**, and **Playwright** browser tests. I am beginning to practice **Express and SQLite** through a small local demo. I'm developing confidence with these tools through guided practice.
 
 ## Featured projects
 
 | Project | What it demonstrates | Stack |
 | --- | --- | --- |
 | [Masari — team project](https://github.com/MDBASHERx/Masari) | Arabic learning platform. My documented contributions include React chat, career exploration, and progress interfaces. | React, JavaScript, CSS, API integration |
-| [TaskFlow](https://github.com/yousefrajabi06-debug/taskflow) | Task creation, editing, search, filters, and local persistence. | React, JavaScript, CSS, localStorage |
-| [Series Explorer](https://github.com/yousefrajabi06-debug/series-explorer) | Live TVmaze search, details, loading/error states, and a saved watchlist. | React, Fetch API, async/await |
-| [CoachFlow](https://github.com/yousefrajabi06-debug/coachflow) | A fictional-client dashboard with CRUD, goals, notes, and recorded progress. | React, JavaScript, CSS, localStorage |
-| [Weather Now](https://github.com/yousefrajabi06-debug/amazon-clone) | A responsive city weather lookup using two public API requests. The repository keeps its historical name. | HTML, CSS, JavaScript, Open-Meteo |
+| [GatherBoard](https://github.com/yousefrajabi06-debug/gatherboard) | Local fictional events and reservations; learning server validation, parameterized SQL, and capacity transactions. | React, Express, SQLite |
+| [PennyScope](https://github.com/yousefrajabi06-debug/pennyscope) | Monthly cash-flow dashboard, integer-cent totals, category visualization, and CSV export. | React, JavaScript, localStorage |
+| [Daymark Calendar](https://github.com/yousefrajabi06-debug/daymark-calendar) | Public-holiday calendar with cancellable requests, regional labels, and ICS export. | React, Fetch API, Nager.Date |
+| [ApplyTrack](https://github.com/yousefrajabi06-debug/applytrack) | Student job-search pipeline, validated forms, stage changes, and follow-up dates. | React, JavaScript, localStorage |
+| [Recall Studio](https://github.com/yousefrajabi06-debug/recall-studio) | Flashcard library and a review session with missed-card repetition. | Vanilla JavaScript, DOM APIs, CSS |
 
-TaskFlow, Series Explorer, and CoachFlow are **AI-assisted learning projects**. Their READMEs include limitations, tests, and exercises for rebuilding important parts independently. They are working portfolio apps, not client work or claims of professional experience.
+These solo portfolio apps are **AI-assisted learning projects**. Their READMEs explain implementation, tests, limitations, and exercises for rebuilding important parts independently. They are not client work or claims of professional experience. GatherBoard is a local learning demo with fictional data; it is not a production booking service.
+
+### More learning projects
+
+- [TaskFlow](https://github.com/yousefrajabi06-debug/taskflow) — task CRUD, search, filters, and persistence.
+- [Series Explorer](https://github.com/yousefrajabi06-debug/series-explorer) — TVmaze search, details, and watchlist.
+- [CoachFlow](https://github.com/yousefrajabi06-debug/coachflow) — fictional coaching-client dashboard.
+- [Weather Now](https://github.com/yousefrajabi06-debug/amazon-clone) — city weather lookup with Open-Meteo; the repository keeps its historical name.
 
 ## What I'm learning
 
