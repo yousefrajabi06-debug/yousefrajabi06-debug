@@ -58,3 +58,11 @@ These solo portfolio apps are **AI-assisted learning projects**. Their READMEs e
 ---
 
 Learning in public, one useful improvement at a time.
+
+## Try the live projects
+
+- [pennyscope](https://yousef-pennyscope.netlify.app/)
+- [daymark-calendar](https://yousef-daymark.netlify.app/)
+- [applytrack](https://yousef-applytrack.netlify.app/)
+- [recall-studio](https://yousef-recall-studio.netlify.app/)
+- [gatherboard](https://yousef-gatherboard.netlify.app/) — browser-only preview with fictional, local data; the full-stack version remains a local learning app.
