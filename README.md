@@ -1,4 +1,4 @@
-![Yousef Rajabi — Junior Full-Stack Developer](assets/profile-banner.svg)
+![Yousef Rajabi — Junior Full-Stack Developer](assets/profile-banner-junior.svg)
 
 # Yousef Rajabi
 
